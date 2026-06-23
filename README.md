@@ -3,11 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Gaurav Yadav</h1>
-<h3 align="center">AI/ML Engineer · Agentic Systems & Local LLMs · Privacy-Preserving ML · Open Source Contributor</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MeGaurav4&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<h3 align="center">AI/ML Engineer · Agentic Systems & LLMs · Privacy-Preserving ML · Open Source Contributor</h3>
 
 ---
 
