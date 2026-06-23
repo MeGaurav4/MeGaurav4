@@ -10,9 +10,9 @@
 # 💫 About Me
 
 🔭 I'm currently working on **agentic systems, local LLM runtimes, and privacy-preserving ML**<br>
-👯 I'm looking to collaborate on **AI/ML open source projects**<br>
-🌱 I'm currently learning **advanced agentic architectures & distributed ML**<br>
-💬 Ask me about **AI/ML, LLMs, federated learning, Python, FastAPI**<br>
+👯 I'm looking to collaborate on **open source projects**<br>
+🌱 I'm currently learning **advanced agentic architectures & workflows**<br>
+💬 Ask me about **AI/ML, LLMs, latest research**<br>
 ⚡ Fun fact: **SIH 2025 Grand Finalist**
 
 ---
