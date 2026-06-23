@@ -17,7 +17,7 @@
 👯 I'm looking to collaborate on **AI/ML open source projects**<br>
 🌱 I'm currently learning **advanced agentic architectures & distributed ML**<br>
 💬 Ask me about **AI/ML, LLMs, federated learning, Python, FastAPI**<br>
-⚡ Fun fact: **SIH 2025 Grand Finalist · 2 patents filed**
+⚡ Fun fact: **SIH 2025 Grand Finalist**
 
 ---
 
