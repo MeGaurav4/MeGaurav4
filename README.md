@@ -73,15 +73,15 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MeGaurav4&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false" alt="github stats" />
-</p>
+</p> -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeGaurav4&theme=aura_dark&hide_border=false" alt="streak stats" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeGaurav4&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" />
-</p>
+</p> -->
 
 ---
 
